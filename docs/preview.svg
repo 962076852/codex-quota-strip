@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="390" viewBox="0 0 800 390">
+<rect width="800" height="390" rx="20" fill="#131515"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
+<text x="40" y="53" fill="#f4f5f5" font-size="25" font-weight="600">Codex Quota Strip</text>
+<text x="40" y="83" fill="#a6afad" font-size="14">每周重置 · 剩余额度 · 52 pt 窄竖条</text>
+<g transform="translate(70 122)">
+<rect width="78" height="222" rx="12" fill="#353a39"/>
+<g text-anchor="middle" fill="#dce1df"><text x="39" y="30" font-size="13" fill="#a7b1ae">重置</text><text x="39" y="65" font-size="18">11/18</text><text x="39" y="94" font-size="15" fill="#a7b1ae">周三</text><path d="M24 111H54" stroke="#69736f"/><text x="39" y="141" font-size="18">21:43</text><text x="39" y="176" font-size="13" fill="#a7b1ae">剩余</text><text x="39" y="207" font-size="23" font-weight="600" fill="#54d37a">50%</text></g></g>
+<g transform="translate(220 122)">
+<rect width="78" height="222" rx="12" fill="#353a39"/>
+<g text-anchor="middle" fill="#dce1df"><text x="39" y="30" font-size="13" fill="#a7b1ae">重置</text><text x="39" y="65" font-size="18">11/18</text><text x="39" y="94" font-size="15" fill="#a7b1ae">周三</text><path d="M24 111H54" stroke="#69736f"/><text x="39" y="141" font-size="18">21:43</text><text x="39" y="176" font-size="13" fill="#ffb34a">● 剩余</text><text x="39" y="207" font-size="23" font-weight="600" fill="#ffb34a">15%</text></g></g>
+<g transform="translate(370 122)">
+<rect width="78" height="222" rx="12" fill="#353a39"/>
+<g text-anchor="middle" fill="#dce1df"><text x="39" y="30" font-size="13" fill="#a7b1ae">重置</text><text x="39" y="65" font-size="18">11/18</text><text x="39" y="94" font-size="15" fill="#a7b1ae">周三</text><path d="M24 111H54" stroke="#69736f"/><text x="39" y="141" font-size="18">21:43</text><text x="39" y="176" font-size="13" fill="#ff6963">● 剩余</text><text x="39" y="207" font-size="23" font-weight="600" fill="#ff6963">3%</text></g></g>
+<text x="510" y="160" fill="#e2e8e5" font-size="18">少占一点空间，</text><text x="510" y="189" fill="#e2e8e5" font-size="18">多看一眼额度。</text><text x="510" y="233" fill="#99a6a0" font-size="13">原生 Swift / AppKit</text><text x="510" y="258" fill="#99a6a0" font-size="13">自动刷新 · 分级颜色 · 前台显隐</text><text x="510" y="304" fill="#77817c" font-size="11">设计示意，日期和额度为示例数据</text>
+</g></svg>
